@@ -1,4 +1,4 @@
-## ### Olá, eu sou o Ryan Marques! 👋
+## Olá, eu sou o Ryan Marques! 👋
 
 Sou estudante de **Ciência de Dados** (Universidade Anhanguera) e atuo na área administrativa do IGESDF, onde trabalho diariamente com organização, conferência e estruturação de dados. Busco minha primeira oportunidade de **estágio ou posição júnior em Análise de Dados ou Business Intelligence (BI)**.
 
